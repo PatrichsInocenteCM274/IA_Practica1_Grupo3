@@ -1,0 +1,2389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="https://example.org/characteristic/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-067">
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:tipo>Cyborg</ns1:tipo>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <ns1:name>Tankmon</ns1:name>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <ns1:numero_carta>BT3-067</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-050">
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT2_050</ns1:numero_carta>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>5</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Mutante</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:name>Argomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:efecto>＜ Digisorption -3 ＞ (Cuando uno de tus Digimon digievoluciona en esta carta desde tu mano, puedes suspender 1 de tus Digimon para reducir el costo de memoria de la digievolución en 3). [Tu turno] Para cada uno de tus otros Digimon suspendidos, este Digimon gana ＜ Ataque de seguridad +1 ＞. (Este Digimon verifica 1 tarjeta de seguridad adicional).</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-025">
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:tipo>Dragon Mitico</ns1:tipo>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:numero_carta>BT3_025</ns1:numero_carta>
+    <ns1:name>ExVeemon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:efecto>[Al hacer Digievolucionar] Anula la suspensión de 1 de tu Digimon de nivel 4 o inferior.</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-023">
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:numero_carta>BT2_023</ns1:numero_carta>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>Cuando juegues esta carta de tu mano, reduce su coste de memoria en 1 por cada Digimon de tu oponente sin cartas de digievolución.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Bestia Marina</ns1:tipo>
+    <ns1:name>Gomamon</ns1:name>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-004">
+    <ns1:efecto_digievolucion>[Tu turno] Cuando este Digimon no se suspenda durante tu fase de suspensión, gana 1 memoria.</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT2_004</ns1:numero_carta>
+    <ns1:name>Argomon</ns1:name>
+    <ns1:tipo>Mutante</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-056">
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:numero_carta>BT3-056</ns1:numero_carta>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Shaman/Olympos XII</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_costo>5</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Ceresmon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:nivel>6</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-063">
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:tipo>Abnormal</ns1:tipo>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:poder_digimon>1000</ns1:poder_digimon>
+    <ns1:numero_carta>BT3-063</ns1:numero_carta>
+    <ns1:efecto>[Al eliminar] Revela las 3 primeras cartas de tu mazo. Puedes jugar 1 [Chuumon] entre ellos sin pagar su costo de memoria. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:name>Sukamon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-053">
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:numero_carta>BT3-053</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:poder_digimon>10000</ns1:poder_digimon>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:tipo>Insectoid</ns1:tipo>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:name>JewelBeemon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-086">
+    <ns1:efecto_seguridad>[Seguridad] Juega esta tarjeta sin pagar su costo de memoria</ns1:efecto_seguridad>
+    <ns1:name>Rina Shinomiya</ns1:name>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:numero_carta>BT2-086</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/tamer"/>
+    <ns1:efecto>[Tu turno] Cuando uno de tus Digimon azules ataca, puedes suspender a este Domador para darle a ese Digimon +1000 DP por turno. [En juego] Revela 3 cartas de la parte superior de tu mazo. Agrega 1 carta de Digimon con [Vee] en su nombre entre ellos a tu mano. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden</ns1:efecto>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT1-101">
+    <ns1:numero_carta>BT1_101</ns1:numero_carta>
+    <ns1:efecto>[Principal] Elimina todas las cartas de digievolución debajo de todos los Digimon de tu oponente</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:name>Howling Crusher</ns1:name>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-087">
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:numero_carta>BT3-087</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto>[Al atacar] Puedes pagar 3 de memoria para jugar 1 [MaloMyotismon] de tu basura sin pagar el costo de memoria. Luego, borra este Digimon</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:name>Mummymon</ns1:name>
+    <ns1:tipo>Undead</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-033">
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:numero_carta>BT3_033</ns1:numero_carta>
+    <ns1:tipo>Mamifero</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:name>Salamon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>[Al atacar] 1 de los Digimon de tu oponente obtiene -1000 DP por turno.</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:poder_digimon>1000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-070">
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto>＜Bloqueador＞ (Cuando un Digimon del oponente ataca, puedes suspender este Digimon para obligar al oponente a atacarlo). [Al eliminar] Revela 5 cartas de la parte superior de tu mazo. Puedes jugar 1 carta Digimon de nivel 6 con [Etemon] en su nombre entre ellas sin pagar su costo de memoria. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden.</ns1:efecto>
+    <ns1:tipo>Puppet</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:name>Etemon</ns1:name>
+    <ns1:numero_carta>BT3-070</ns1:numero_carta>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-090">
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3-090</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:tipo>Angel</ns1:tipo>
+    <ns1:efecto>[Cuando digievoluciona] Elimina 1 carta de la parte superior de las pilas de seguridad de ambos jugadores. Luego, juega 1 carta de Digimon púrpura o amarilla con un nivel de 4 o menos de tu basura sin pagar su costo de memoria</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:name>Mastemon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-036">
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto>[Seguridad] Al final de la batalla, juega esta carta sin pagar su coste de memoria.</ns1:efecto>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:name>Ankylomon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3-036</ns1:numero_carta>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:tipo>Ankylosaur</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-009">
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:numero_carta>BT3_009</ns1:numero_carta>
+    <ns1:tipo>Aereo</ns1:tipo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:name>Hawkmon</ns1:name>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-019">
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Phoenixmon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>11</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:tipo>Bestia Sagrada</ns1:tipo>
+    <ns1:numero_carta>BT2_019</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:efecto>[Al atacar] Cuando este Digimon ataca a un jugador, gana 1 memoria.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-017">
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:numero_carta>BT3_017</ns1:numero_carta>
+    <ns1:costo_entrada>11</ns1:costo_entrada>
+    <ns1:efecto>[Cuando Digievoluciona] Elimina 1 de los Digimon de tu oponente con 4000 DP o menos [Al atacar] Elimina 1 de los Digimon de tu oponente con 4000 DP o menos.</ns1:efecto>
+    <ns1:poder_digimon>9000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Valkyrimon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:tipo>Guerrero</ns1:tipo>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-041">
+    <ns1:efecto>[Al atacar] Si tienes 3 o menos tarjetas de seguridad, coloca 1 tarjeta amarilla de Digimon de tu basura en la parte superior de tu pila de seguridad boca abajo.</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>11</ns1:costo_entrada>
+    <ns1:name>Cherubimon</ns1:name>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3-041</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:tipo>Cherub/Three Great Angels</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-040">
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto>[Al eliminar] Coloque esta tarjeta en la parte superior de su pila de seguridad boca abajo.</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:name>Ophanimon</ns1:name>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:nivel>6</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:tipo>Trono\Tres Grandes Angeles</ns1:tipo>
+    <ns1:numero_carta>BT2_040</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-006">
+    <ns1:name>Kakkimon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:numero_carta>BT3_006</ns1:numero_carta>
+    <ns1:tipo>Flama</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <ns1:efecto_digievolucion>[Al eliminar] Activador ＜ Roba 1 ＞. (Roba 1 carta de tu mazo). Luego, tira 1 carta de tu mano a la basura. </ns1:efecto_digievolucion>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-065">
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:name>Gururumon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:tipo>Beast</ns1:tipo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto>[Seguridad] Al final de la batalla, juega esta carta sin pagar su coste de memoria.</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3-065</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-025">
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:name>Ikkakumon</ns1:name>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Bestia Marina</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:numero_carta>BT2_025</ns1:numero_carta>
+    <ns1:efecto_digievolucion>[Al atacar] Tira a la basura la carta superior de digievolución de 1 de los Digimon de tu oponente.</ns1:efecto_digievolucion>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-112">
+    <rdf:type rdf:resource="https://example.org/blanco"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>15</ns1:costo_entrada>
+    <ns1:numero_carta>BT3-112</ns1:numero_carta>
+    <ns1:name>Omnimon Alter-S</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>7</ns1:nivel>
+    <ns1:efecto>[Cuando Digievoluciona] Activa ＜De-Digievoluciona 1＞ en todos los Digimon de tu oponente. (Tira a la basura una carta de la parte superior de uno de los Digimon de tu oponente. Si no tiene cartas de digievolución, o se convierte en un Digimon de nivel 3, no puedes tirar más cartas a la basura). Luego, elimina todos los Digimon de tu oponente con 5000 DP o menos. [Al atacar] Puedes hacer que este Digimon sea imbloqueable durante el turno devolviendo una de sus cartas de digievolución de nivel 6 a tu mano.</ns1:efecto>
+    <ns1:requerimiento_evolucion_costo>6</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>15000</ns1:poder_digimon>
+    <ns1:tipo>Holy Warrior</ns1:tipo>
+    <ns1:requerimiento_evolucion_nivel>6</ns1:requerimiento_evolucion_nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-083">
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:numero_carta>BT3-083</ns1:numero_carta>
+    <ns1:tipo>Flame</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <ns1:name>Meramon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-058">
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:tipo>Insectoid/Boss</ns1:tipo>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:poder_digimon>9000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>BanchoStingmon</ns1:name>
+    <ns1:numero_carta>BT3-058</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>＜Perforación＞ (Cuando este Digimon ataca y elimina el Digimon de un oponente y sobrevive a la batalla, realiza los controles de seguridad que normalmente haría). [Al atacar] Si atacas al Digimon de un oponente que tiene 12000 DP o más, este Digimon obtiene +7000 DP y ＜ Ataque de seguridad +2 ＞ (Este Digimon comprueba 2 tarjetas de seguridad adicionales) para el turno.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-103">
+    <ns1:efecto_seguridad>[Seguridad] Agrega esta tarjeta a tu mano.</ns1:efecto_seguridad>
+    <ns1:costo_entrada>0</ns1:costo_entrada>
+    <ns1:efecto>[Principal] La próxima vez que uno de tus Digimon verdes digievolucione este turno, puedes suspender 1 de tus Digimon para reducir el costo de memoria de la digievolución en 5.</ns1:efecto>
+    <ns1:name>Hidden Potential Discovered!</ns1:name>
+    <ns1:numero_carta>BT3-103</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-012">
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:tipo>Pajaro Gigante</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT2_012</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>[Al atacar] Cuando este Digimon ataca a un jugador, obtiene +4000 DP por turno.</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:name>Birdramon</ns1:name>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT1-095">
+    <ns1:name>Brave Shield</ns1:name>
+    <ns1:efecto>[Principal] Anula la suspensión de 1 de tus Digimon. Hasta el final del próximo turno de tu oponente, ese Digimon gana ＜Blocker＞. (Cuando el Digimon de un oponente ataca, puede suspender este Digimon para obligar al oponente a atacarlo)</ns1:efecto>
+    <ns1:numero_carta>BT1-095</ns1:numero_carta>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto_seguridad>[Seguridad] Anula la suspensión de 1 de tus Digimon. Ese Digimon gana</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-019">
+    <ns1:costo_entrada>14</ns1:costo_entrada>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:requerimiento_evolucion_nivel>6</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>RagnaLoardmon</ns1:name>
+    <ns1:poder_digimon>14000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:numero_carta>BT3_019</ns1:numero_carta>
+    <ns1:efecto>＜ Ataque de seguridad +1 ＞ (Este Digimon verifica 1 tarjeta de seguridad adicional.) ＜Reboot＞ (Anula la suspensión de este Digimon durante la fase de anulación de suspensión de tu oponente). [Cuando digievoluciona] Puedes colocar 1 [Durandamon] o [BryweLudramon] de tu mano encima de las tarjetas de digievolución de esta tarjeta para ganar 3 de memoria.</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Unico\Legenda</ns1:tipo>
+    <ns1:nivel>7</ns1:nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT1-083">
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <ns1:numero_carta>BT1-083</ns1:numero_carta>
+    <ns1:tipo>Insectoide</ns1:tipo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:efecto>＜Piercing＞ (Cuando este Digimon ataca y elimina el Digimon de un oponente y sobrevive a la batalla, realiza los controles de seguridad que normalmente haría). [Tu turno] Este Digimon obtiene +4000 DP.</ns1:efecto>
+    <ns1:costo_entrada>13</ns1:costo_entrada>
+    <ns1:name>GranKuwagamon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>6</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-052">
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:name>Rapidmon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:tipo>Cyborg</ns1:tipo>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_digievolucion>[Tu turno] Esta carta obtiene +1000 DP por cada Digimon suspendido de tu oponente.</ns1:efecto_digievolucion>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3-052</ns1:numero_carta>
+    <ns1:nivel>5</ns1:nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-057">
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:numero_carta>BT3-057</ns1:numero_carta>
+    <ns1:tipo>Machine</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <ns1:name>MegaGargomon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>[Cuando Digievoluciona] Suspende 1 de los Digimon de tu oponente. No se anula la suspensión durante la siguiente fase de anulación de suspensión de tu oponente. [Tu turno] Mientras tu oponente tiene un Digimon suspendido en juego, este Digimon gana ＜ Ataque de seguridad +1 ＞. (Este Digimon verifica 1 tarjeta de seguridad adicional).</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-023">
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:name>Angemon</ns1:name>
+    <ns1:tipo>Angel</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto_digievolucion>[Al atacar] Tira a la basura la carta de digievolución inferior de 1 de los Digimon de tu oponente.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:numero_carta>BT3_023</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-112">
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:numero_carta>BT2_112</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:costo_entrada>13</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>Mientras tu oponente tenga un Digimon con 10000 DP o más en juego, reduce el costo de memoria para jugar esta carta de tu mano en 6. [Al atacar] Si atacas al Digimon de tu oponente con el DP más alto, anula la suspensión de este Digimon.</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:name>BlackWarGreymon</ns1:name>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <ns1:tipo>Dragon</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-039">
+    <ns1:efecto_digievolucion>[Al atacar] Si tienes 3 o menos cartas de seguridad, puedes jugar 1 carta amarilla de Digimon de nivel 3 de tu mano sin pagar su coste de memoria.</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3-039</ns1:numero_carta>
+    <ns1:efecto>[Cuando Digievoluciona] 1 de los Digimon de tu oponente gana ＜ Ataque de seguridad -2 ＞ (Este Digimon revisa 2 tarjetas de seguridad menos) hasta el final del próximo turno de tu oponente.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <ns1:tipo>Archangel</ns1:tipo>
+    <ns1:name>Angewomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>5</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-059">
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <ns1:numero_carta>BT3-059</ns1:numero_carta>
+    <ns1:name>Commandramon</ns1:name>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:tipo>Cyborg/D-Brigade</ns1:tipo>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/digimon">
+    <ns1:name>digimon</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/carta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-031">
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:costo_entrada>13</ns1:costo_entrada>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>5</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3_031</ns1:numero_carta>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Dragon Ancestral</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:name>Imperialdramon Dragon Mode</ns1:name>
+    <ns1:efecto>Cuando uno de tus [Paildramon] o [Dinobeemon] digievolucione en esta carta en tu mano, reduce el costo de memoria de la digievolución en 2. ＜Jamming＞ (Este Digimon no se puede eliminar en batallas contra Security Digimon.) [Cuando Digivolving] Anula la suspensión de todos tus Digimon con ＜Jamming＞.</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-024">
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:tipo>Animal Marino</ns1:tipo>
+    <ns1:numero_carta>BT2_024</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Seadramon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-045">
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:tipo>Mutante</ns1:tipo>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:efecto>＜ Digisorption -2 ＞ (Cuando uno de sus Digimon digievoluciona en esta tarjeta de su mano, puede suspender 1 de sus Digimon para reducir el costo de memoria de la digievolución en 2.)</ns1:efecto>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:numero_carta>BT2_045</ns1:numero_carta>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:name>Argomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-034">
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:name>Lopmon</ns1:name>
+    <ns1:tipo>Bestia</ns1:tipo>
+    <ns1:efecto>[En juego] Mira la carta superior de tu pila de seguridad. Puedes agregar esa carta a tu mano para activar ＜ Draw 1 ＞. (Roba 1 carta de tu Deck.)</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3_034</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-031">
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>[Tu turno] Mientras que tu oponente tiene un Digimon sin cartas de digievolución en juego, este Digimon obtiene +1000 DP y ＜ Security Attack +1 ＞. (Este Digimon verifica 1 tarjeta de seguridad adicional).</ns1:efecto>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>6</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:numero_carta>BT2_031</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:tipo>Bestia</ns1:tipo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:name>Vikemon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-077">
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Gazimon</ns1:name>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:numero_carta>BT3-077</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:tipo>Mammal</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto>[Todos los turnos] Tu oponente no puede ganar memoria excepto con los efectos de Domador</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-098">
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta</ns1:efecto_seguridad>
+    <ns1:name>EDENs Javelin</ns1:name>
+    <ns1:numero_carta>BT2-098</ns1:numero_carta>
+    <ns1:efecto>[Principal] Activa ＜ Robar 1 ＞. (Roba 1 carta de tu mazo). Luego, 1 de los Digimon de tu oponente obtiene -1000 DP por cada carta en tu mano durante el turno</ns1:efecto>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-075">
+    <ns1:numero_carta>BT3-075</ns1:numero_carta>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:costo_entrada>13</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>＜Blocker＞ (Cuando el Digimon de un oponente ataca, puedes suspender este Digimon para obligar al oponente a atacarlo). [Todos los turnos] Tu Digimon con ＜Blocker＞ no puede ser eliminado por los efectos de tu oponente.</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Holy Warrior/Royal Knight</ns1:tipo>
+    <ns1:name>Craniamon</ns1:name>
+    <ns1:nivel>6</ns1:nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-106">
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:name>Beast Cyclone</ns1:name>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:numero_carta>BT3-106</ns1:numero_carta>
+    <ns1:efecto_seguridad>[Seguridad] Agrega esta tarjeta a tu mano.</ns1:efecto_seguridad>
+    <ns1:efecto>[Principal] Todos tus Digimon con ＜Blocker＞ o ＜Reboot＞ ganan ＜ Security Attack +1 ＞ (Este Digimon comprueba 1 tarjeta de seguridad adicional) para el turno.</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-037">
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:numero_carta>BT3-037</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:tipo>Beastkin</ns1:tipo>
+    <ns1:name>Turuiemon</ns1:name>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-050">
+    <ns1:name>Stingmon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:numero_carta>BT3-050</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:tipo>Insectoid</ns1:tipo>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:efecto_digievolucion>[Tu turno] [Una vez por turno] Cuando este Digimon elimina a un Digimon del oponente en la batalla y sobrevive, gana 1 memoria.</ns1:efecto_digievolucion>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto>-</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT1-091">
+    <ns1:efecto>[Principal] 1 de tus Digimon gana ＜Piercing＞ (cuando este Digimon ataca y elimina al Digimon de un oponente y sobrevive a la batalla, realiza las comprobaciones de seguridad que normalmente haría) durante el turno.</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:numero_carta>BT1-091</ns1:numero_carta>
+    <ns1:name>Scrap Claw</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-086">
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3-086</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:name>Arukenimon</ns1:name>
+    <ns1:tipo>Dark Animal</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>[Al atacar] Puedes pagar 3 puntos de memoria para jugar 1 [MaloMyotismon] de tu mano sin pagar su coste de memoria. Luego, borra este Digimon</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-015">
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:tipo>Pajaro</ns1:tipo>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:nivel>5</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Garudamon</ns1:name>
+    <ns1:efecto>[Al atacar] Cuando este Digimon ataca a un jugador, activa ＜ Draw 1 ＞. (Roba 1 carta de tu Deck.)</ns1:efecto>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:numero_carta>BT2_015</ns1:numero_carta>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-051">
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:efecto>[En juego] Revela las 3 primeras cartas de tu mazo. Agrega 1 carta de Digimon de nivel 5 y 1 de nivel 6 entre ellos a tu mano. Tira las cartas restantes a la basura.</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Insectoid</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:numero_carta>BT3-051</ns1:numero_carta>
+    <ns1:name>Dokugumon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-035">
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Gatomon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3_035</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:tipo>Bestia Divina</ns1:tipo>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>[Al atacar] 1 de los Digimon de tu oponente obtiene -1000 DP por turno.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-042">
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:poder_digimon>10000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3-042</ns1:numero_carta>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:name>ClavisAngemon</ns1:name>
+    <ns1:efecto>[Al atacar] Si tienes 3 o menos cartas de seguridad, 1 de los Digimon de tu oponente obtiene -6000 DP por turno.</ns1:efecto>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:tipo>Virtue</ns1:tipo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>6</ns1:nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-091">
+    <ns1:numero_carta>BT2_091</ns1:numero_carta>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>Volcanic Flare</ns1:name>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto>[Principal] Elimina 1 de los Digimon de tu oponente con 4000 DP o menos</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-027">
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3_027</ns1:numero_carta>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:name>Paildramon</ns1:name>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:tipo>Dragon</ns1:tipo>
+    <ns1:efecto_digievolucion>[Al atacar] [Una vez por turno] Si este Digimon tiene [Imperialdramon] en su nombre, anule la suspensión.</ns1:efecto_digievolucion>
+    <ns1:efecto>＜Jamming＞ (Este Digimon no se puede eliminar en batallas contra Security Digimon).</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-040">
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:numero_carta>BT3-040</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <ns1:efecto>[Tu turno] Este Digimon también se trata como azul. [Turno del oponente] Todos los Digimon de tu oponente sin cartas de digievolución ganan ＜ Ataque de seguridad -1 ＞. (Este Digimon verifica 1 tarjeta de seguridad menos).</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:name>Shakkoumon</ns1:name>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Mutant</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-076">
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:name>Candlemon</ns1:name>
+    <ns1:tipo>Flame</ns1:tipo>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:numero_carta>BT3-076</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-022">
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT2_022</ns1:numero_carta>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:tipo>Anfibio</ns1:tipo>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:name>Betamon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-011">
+    <ns1:numero_carta>BT2-011</ns1:numero_carta>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <ns1:name>Vorvomon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Rock Dragon</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:nivel>3</ns1:nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-029">
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:numero_carta>BT2_029</ns1:numero_carta>
+    <ns1:efecto>[Tu turno] Este Digimon no puede ser bloqueado por el Digimon de tu oponente sin cartas de evolución digital.</ns1:efecto>
+    <ns1:name>MegaSeadramon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:poder_digimon>8000</ns1:poder_digimon>
+    <ns1:tipo>Animal Marino</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-068">
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_digievolucion>[Turno del oponente] Este Digimon obtiene +1000 DP.</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:tipo>Mine</ns1:tipo>
+    <ns1:numero_carta>BT3-068</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:name>Giromon</ns1:name>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-016">
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <ns1:name>Durandamon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:costo_entrada>10</ns1:costo_entrada>
+    <ns1:numero_carta>BT3_016</ns1:numero_carta>
+    <ns1:tipo>Espada Sagrada\Leyenda</ns1:tipo>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>＜Piercing＞ (Cuando este Digimon ataca y elimina el Digimon de un oponente y sobrevive a la batalla, realiza los controles de seguridad que normalmente haría).</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-102">
+    <ns1:numero_carta>BT3-102</ns1:numero_carta>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto>[Principal] Tu oponente puede tirar a la basura la carta superior de su pila de seguridad. Si no es así, activa ＜ Recovery +1 (Deck) ＞. (Coloque la carta superior de su mazo encima de su pila de seguridad).</ns1:efecto>
+    <ns1:name>Code Cracking</ns1:name>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-016">
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:poder_digimon>8000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:name>Lavogaritamon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT2_016</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:tipo>Roca Dragon</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-002">
+    <ns1:numero_carta>BT3_002</ns1:numero_carta>
+    <ns1:tipo>Menor</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:efecto_digievolucion>[Al atacar] [Una vez por turno] Si este Digimon tiene ＜Jamming＞, activa ＜ Draw 1 ＞. (Roba 1 carta de tu mazo).</ns1:efecto_digievolucion>
+    <ns1:name>DemiVeemon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-032">
+    <ns1:efecto>[Tu turno] Cuando uno de tus Domadores azules quede suspendido, vuelve a suspender este Digimon. [Tu turno] [Una vez por turno] Cuando este Digimon deje de estar suspendido durante tu fase principal, gana 1 memoria.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:numero_carta>BT2_032</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:name>UlforceVeedramon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:costo_entrada>13</ns1:costo_entrada>
+    <ns1:nivel>6</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:tipo>Guerrero Sagrado/Caballero Real</ns1:tipo>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/poder_digimon">
+    <ns1:name>poder_digimon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-001">
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <ns1:tipo>Mini Pajaro</ns1:tipo>
+    <ns1:name>Poromon</ns1:name>
+    <ns1:numero_carta>BT3_001</ns1:numero_carta>
+    <ns1:efecto_digievolucion>[Al atacar] Elimina 1 de los Digimon de tu oponente con 1000 DP o menos.</ns1:efecto_digievolucion>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-100">
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta.</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:efecto>[Principal] Tira a la basura hasta 2 cartas de digievolución de la parte inferior de todos los Digimon de tu oponente. Luego, si tienes un Digimon verde en juego, suspende 1 de los Digimon de tu oponente sin cartas de digievolución.</ns1:efecto>
+    <ns1:numero_carta>BT3-100</ns1:numero_carta>
+    <ns1:costo_entrada>9</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:name>Death Parade Blaster</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-035">
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:name>GeoGreymon</ns1:name>
+    <ns1:numero_carta>BT2_035</ns1:numero_carta>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:tipo>Dinosaurio</ns1:tipo>
+    <ns1:efecto_digievolucion>[Al atacar] Si tienes 3 o más Domadores amarillos en juego, 1 de los Digimon de tu oponente obtiene -2000 DP por turno.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-028">
+    <ns1:tipo>Bestia</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:numero_carta>BT3_028</ns1:numero_carta>
+    <ns1:name>Bastemon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:poder_digimon>8000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-066">
+    <ns1:numero_carta>BT3-066</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:name>Clockmon</ns1:name>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:tipo>Machine</ns1:tipo>
+    <ns1:efecto_digievolucion>[Turno del oponente] Este Digimon obtiene +1000 DP.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-034">
+    <ns1:tipo>Mamifero</ns1:tipo>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <ns1:numero_carta>BT2_034</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Salamon</ns1:name>
+    <ns1:efecto>[Al eliminar] Si tiene 3 o menos tarjetas de seguridad, active ＜ Recuperación +1 (Deck) ＞. (Coloque la carta superior de su mazo encima de su pila de seguridad).</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-018">
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3_018</ns1:numero_carta>
+    <ns1:name>BlitzGreymon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:tipo>Cyborg</ns1:tipo>
+    <ns1:efecto>＜Piercing＞ (Cuando este Digimon ataca y elimina el Digimon de un oponente y sobrevive a la batalla, realiza los controles de seguridad que normalmente haría). [Cuando Digievoluciona] Activa ＜ De-Digivolve 2 ＞ en 1 de los Digimon de tu oponente. (Elimina hasta 2 cartas de la parte superior de uno de los Digimon de tu oponente. Si no tiene cartas de evolución digital o se convierte en un Digimon de nivel 3, no puedes tirar más cartas a la basura).</ns1:efecto>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-085">
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:name>SkullMeramon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:numero_carta>BT3-085</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:tipo>Flame</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-027">
+    <ns1:numero_carta>BT2_027</ns1:numero_carta>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>9000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:name>Zudomon</ns1:name>
+    <ns1:tipo>Bestia Marina</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-003">
+    <ns1:numero_carta>BT2_003</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <ns1:name>Nyaromon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:tipo>Menor</ns1:tipo>
+    <ns1:efecto_digievolucion>[Turno del oponente] Mientras este Digimon está suspendido, todos tus Digimon de seguridad obtienen +1000 DP.</ns1:efecto_digievolucion>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-072">
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>BryweLudramon</ns1:name>
+    <ns1:tipo>Armor/Legend-Arms</ns1:tipo>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3-072</ns1:numero_carta>
+    <ns1:efecto_digievolucion>＜Bloqueador＞ (Cuando el Digimon de un oponente ataca, puede suspender este Digimon para obligar al oponente a atacarlo).</ns1:efecto_digievolucion>
+    <ns1:costo_entrada>10</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-014">
+    <ns1:efecto>[Cuando Digievoluciona] Cambia el PD original de 1 de los Digimon de nivel 4 o inferior de tu oponente a 1000 para el turno. [Tu turno] Este Digimon también se trata como amarillo.</ns1:efecto>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:numero_carta>BT3_014</ns1:numero_carta>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:tipo>Bestia</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:name>Silphymon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-041">
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:numero_carta>BT2_041</ns1:numero_carta>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <ns1:costo_entrada>12</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:name>ShineGreymon</ns1:name>
+    <ns1:efecto>[Cuando digievoluciona] Suspende a todos tus Domadores amarillos. Por cada Domador que suspendas de esta manera, activa el siguiente efecto: ・ 1 de los Digimon de tu oponente obtiene -4000 DP por turno. [Tu turno] Este Digimon obtiene +1000 DP por cada Domador que tengas en juego.</ns1:efecto>
+    <ns1:tipo>Dragon Luz</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-008">
+    <ns1:numero_carta>BT3_008</ns1:numero_carta>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Zubamon</ns1:name>
+    <ns1:tipo>Arma\Legenda</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:poder_digimon>1000</ns1:poder_digimon>
+    <ns1:nivel>3</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:efecto>[En juego] Revela las 5 primeras cartas de tu mazo. Añade a tu mano 1 carta de [RagnaLoardmon] Digimon y 1 carta de Digimon con [Legend-Arms] en su tipo. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-037">
+    <ns1:numero_carta>BT2_037</ns1:numero_carta>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:name>Angewomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Arcangel</ns1:tipo>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:poder_digimon>10000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-111">
+    <ns1:requerimiento_evolucion_costo>5</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>Cuando uno de tus [Paildramon] o [Dinobeemon] digievolucione en esta carta en tu mano, reduce el costo de memoria de la digievolución en 2. cualquier control de seguridad lo haría normalmente.) [Tu turno] [Una vez por turno] Cuando este Digimon elimine a un Digimon del oponente en la batalla y sobreviva, anula la suspensión de este Digimon</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:name>Imperialdramon Dragon Mode</ns1:name>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:costo_entrada>13</ns1:costo_entrada>
+    <ns1:numero_carta>BT3-111</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:tipo>Ancient Dragon</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-092">
+    <ns1:name>MaloMyotismon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:requerimiento_evolucion_costo>5</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>[Piercing] (Cuando este Digimon ataca y elimina el Digimon de un oponente y sobrevive a la batalla, realiza las comprobaciones de seguridad que normalmente haría). [Todos los turnos] Cuando se elimina otro Digimon, gana 1 memoria por cada Digimon eliminado</ns1:efecto>
+    <ns1:costo_entrada>13</ns1:costo_entrada>
+    <ns1:tipo>Demon Lord</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:numero_carta>BT3-092</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:poder_digimon>12000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-049">
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:tipo>Insectoid</ns1:tipo>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3-049</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Flymon</ns1:name>
+    <ns1:efecto>[Seguridad] Al final de la batalla, juega esta carta sin pagar su coste de memoria.</ns1:efecto>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-088">
+    <ns1:poder_digimon>8000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:name>LadyDevimon</ns1:name>
+    <ns1:efecto>[Cuando digievoluciona] Activar ＜Roba 2＞. (Roba 2 cartas de tu mazo). Luego, tira 2 cartas de tu mano a la basura</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3-088</ns1:numero_carta>
+    <ns1:tipo>Fallen Angel</ns1:tipo>
+    <ns1:efecto_digievolucion>[Tu turno] [Una vez por turno] Cuando uses una carta de opción, elimina 1 de los Digimon de nivel 3 de tu oponente</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-097">
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:efecto>[Principal] Hasta 3 de los Digimon de nivel 3 de tu oponente obtienen -4000 DP por turno.</ns1:efecto>
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta</ns1:efecto_seguridad>
+    <ns1:name>Lightning Paw</ns1:name>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:numero_carta>BT2-097</ns1:numero_carta>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-062">
+    <ns1:name>Ludomon</ns1:name>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>[En juego] Revela las 5 primeras cartas de tu mazo. Agrega 1 carta de [RagnaLoardmon] Digimon y 1 carta de Digimon con [Legend-Arms] en su tipo entre ellos a tu mano. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3-062</ns1:numero_carta>
+    <ns1:tipo>Armor/Legend-Arms</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:poder_digimon>1000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-011">
+    <ns1:numero_carta>BT3_011</ns1:numero_carta>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:efecto>[Seguridad] Al final de la batalla, juega esta carta sin pagar su coste de memoria.</ns1:efecto>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:name>Greymon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:tipo>Dinosaurio</ns1:tipo>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-015">
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>＜Piercing＞ (Cuando este Digimon ataca y elimina el Digimon de un oponente y sobrevive a la batalla, realiza los controles de seguridad que normalmente haría). [Cuando Digievoluciona] Puedes devolver 1 carta de Digimon de nivel 7 con [Virus] en su atributo de tu basura. a tu mano.</ns1:efecto>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:numero_carta>BT3_015</ns1:numero_carta>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:name>MetalGreymon</ns1:name>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:tipo>Cyborg</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-026">
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:efecto_digievolucion>[Al atacar] Tira a la basura la carta de digievolución inferior de 1 de los Digimon de tu oponente.</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:numero_carta>BT3_026</ns1:numero_carta>
+    <ns1:name>MagnaAngemon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Arcangel</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-028">
+    <ns1:tipo>Dragon Sagrado</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <ns1:name>AeroVeedramon</ns1:name>
+    <ns1:numero_carta>BT2_028</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:requerimiento_evolucion_costo>5</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>[Tu turno] Cuando este Digimon no se suspende durante tu fase principal, gana ＜Jamming＞ (Este Digimon no se puede eliminar en batallas contra Security Digimon) para el turno.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:efecto>[Cuando Digievolucione] Si tiene un Domador azul en juego, desactive 1 de sus Digimon azules.</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-054">
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:efecto>＜ Digisorción -3 ＞ (Cuando uno de sus Digimon digievoluciona en esta tarjeta de su mano, puede suspender 1 de sus Digimon para reducir el costo de memoria de la digievolución en 3.)</ns1:efecto>
+    <ns1:numero_carta>BT3-054</ns1:numero_carta>
+    <ns1:name>Blossomon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:tipo>Vegetation</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-029">
+    <ns1:name>Goldramon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:costo_entrada>11</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Dragon Sagrado\Cuatro Grandes Dragones</ns1:tipo>
+    <ns1:numero_carta>BT3_029</ns1:numero_carta>
+    <ns1:efecto>[Tu turno] [Una vez por turno] Cuando juegues con otro Digimon, anula la suspensión de este Digimon.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/color">
+    <rdfs:subClassOf rdf:resource="https://example.org/carta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-047">
+    <ns1:efecto>[Al eliminar] Revela las 3 primeras cartas de tu mazo. Agrega 1 carta de Digimon de nivel 4 o 5 entre ellos a tu mano. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:tipo>Larva</ns1:tipo>
+    <ns1:numero_carta>BT3-047</ns1:numero_carta>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:poder_digimon>1000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Wormmon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-069">
+    <ns1:nivel>5</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:numero_carta>BT3-069</ns1:numero_carta>
+    <ns1:name>RaijiLudomon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:tipo>Armor/Legend-Arms</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>[Al atacar] Si este Digimon es de nivel 7, activa ＜ Desdigievolucionar 1 ＞ en 1 de los Digimon de tu oponente. (Tira a la basura una carta de la parte superior de uno de los Digimon de tu oponente. Si no tiene cartas de digievolución o se convierte en un Digimon de nivel 3, no puedes tirar más cartas a la basura).</ns1:efecto_digievolucion>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT1-103">
+    <ns1:efecto_seguridad>Activador de [seguridad]</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:numero_carta>BT1_103</ns1:numero_carta>
+    <ns1:efecto>[Principal] Hasta el final del próximo turno de tu oponente, 1 de tus Digimon gana ＜Blocker＞. (Cuando el Digimon de un oponente ataca, puede suspender este Digimon para obligar al oponente a atacarlo)</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>Testament</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-093">
+    <ns1:name>Davis Motomiya</ns1:name>
+    <ns1:numero_carta>BT3-093</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/tamer"/>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:efecto_seguridad>[Seguridad] Juega esta tarjeta sin pagar su costo de memoria</ns1:efecto_seguridad>
+    <ns1:efecto>[Inicio de tu turno] Si tienes 2 de memoria o menos, pon tu memoria en 3. En juego] Revela las 3 primeras cartas de tu mazo. Agrega 1 carta de Digimon azul y 1 verde entre ellas a tu mano. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/violeta">
+    <ns1:name>violeta</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/color"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-095">
+    <ns1:efecto_seguridad>[Seguridad] Juega esta tarjeta sin pagar su costo de memoria.</ns1:efecto_seguridad>
+    <ns1:name>Joe Kido</ns1:name>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <rdf:type rdf:resource="https://example.org/tamer"/>
+    <ns1:numero_carta>BT3-095</ns1:numero_carta>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <ns1:efecto>[Inicio de tu turno] Si tienes un Digimon con ＜Blocker＞ en juego, gana 1 memoria.</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-036">
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT2_036</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:name>Gatomon</ns1:name>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:tipo>Bestia Sagrada</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto>[En juego] Si tienes un Digimon violeta en juego, 1 de los Digimon de tu oponente obtiene -4000 PD por turno. [Tu turno] Cuando uno de tus otros Digimon es eliminado, este Digimon obtiene +3000 PD por turno.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/costo_entrada">
+    <ns1:name>costo_entrada</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/requerimiento_evolucion_nivel">
+    <ns1:name>requerimiento_evolucion_nivel</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-044">
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:tipo>Vegetation</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3-044</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:name>Aruraumon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-010">
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:tipo>Pajaro</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+    <ns1:numero_carta>BT2_010</ns1:numero_carta>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:nivel>3</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:name>GranKuwagamon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-026">
+    <ns1:numero_carta>BT2_026</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:efecto>[Tu turno] Mientras tengas un Domador azul en juego, este Digimon gana ＜Jamming＞. (Este Digimon no se puede eliminar en batallas contra Security Digimon).</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:name>Veedramon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:tipo>Dragon Mitico</ns1:tipo>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-032">
+    <ns1:tipo>Mamifero</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:name>Armadillomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3_032</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-020">
+    <ns1:name>Patamon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:numero_carta>BT3_020</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:tipo>Mamifero</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-048">
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:name>Gargomon</ns1:name>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:numero_carta>BT3-048</ns1:numero_carta>
+    <ns1:tipo>Beastkin</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:efecto_digievolucion>[Tu turno] Esta carta obtiene +1000 DP por cada Digimon suspendido de tu oponente.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto>-</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-080">
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:tipo>Giant Bird</ns1:tipo>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:numero_carta>BT3-080</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:efecto_digievolucion>[Represalias] (Cuando este Digimon se elimina después de perder una batalla, elimina el Digimon con el que estaba luchando)</ns1:efecto_digievolucion>
+    <ns1:name>Saberdramon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-005">
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <ns1:name>Kakkimon</ns1:name>
+    <ns1:efecto_digievolucion>[Al atacar] [Una vez por turno] Si este Digimon es de nivel 7, gana 1 memoria.</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3_005</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:tipo>Armor</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-104">
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:efecto_seguridad>[Seguridad] Hasta 2 de los Digimon de tu oponente no pueden atacar durante el turno. Luego, si tienes un Digimon azul en juego, devuelve 1 de los Digimon suspendidos de tu oponente a la mano de su propietario. (Elimine todas sus tarjetas de digievolución).</ns1:efecto_seguridad>
+    <ns1:numero_carta>BT3-104</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>Positron Laser</ns1:name>
+    <ns1:efecto>[Principal] Hasta 2 de los Digimon de tu oponente no pueden atacar ni bloquear hasta el final del próximo turno de tu oponente. Luego, si tienes un Digimon azul en juego, devuelve 1 de los Digimon suspendidos de tu oponente a la mano de su propietario. (Elimine todas sus tarjetas de digievolución).</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-038">
+    <ns1:numero_carta>BT3-038</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:poder_digimon>8000</ns1:poder_digimon>
+    <ns1:tipo>Holy Beast</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:costo_entrada>7</ns1:costo_entrada>
+    <ns1:nivel>5</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:name>Antylamon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-024">
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3_024</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:tipo>Bestia Mitica</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto>[Seguridad] Al final de la batalla, juega esta carta sin pagar su coste de memoria.</ns1:efecto>
+    <ns1:name>Airdramon</ns1:name>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-033">
+    <ns1:numero_carta>BT2_033</ns1:numero_carta>
+    <ns1:tipo>Dinosaurio</ns1:tipo>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>[Al atacar] Si tienes 3 o más Domadores amarillos en juego, activa ＜ Draw 1 ＞. (Roba 1 carta de tu Deck.)</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:nivel>3</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:name>Agumon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/mega">
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+    <ns1:name>mega</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-094">
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>Arctic Blizzard</ns1:name>
+    <ns1:numero_carta>BT2-094</ns1:numero_carta>
+    <ns1:efecto>[Principal] Elige 1 carta de evolución digital de 1 de los Digimon de tu oponente y deséchala. Luego, 1 de tus Digimon obtiene +2000 DP por turno</ns1:efecto>
+    <ns1:efecto_seguridad>[Seguridad] Agrega esta tarjeta a tu mano</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/verde">
+    <ns1:name>verde</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/color"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-001">
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <ns1:name>Gigimon</ns1:name>
+    <ns1:numero_carta>BT2_001</ns1:numero_carta>
+    <ns1:efecto_digievolucion>[Tu turno] Si bien hay 5 o más cartas en la basura de tu oponente, este Digimon obtiene +1000 DP</ns1:efecto_digievolucion>
+    <ns1:tipo>Menor</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-014">
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <ns1:tipo>Dragon Roca</ns1:tipo>
+    <ns1:numero_carta>BT2_014</ns1:numero_carta>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Lavorvomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-101">
+    <ns1:efecto>[Principal] 1 de los Digimon de tu oponente obtiene -3000 DP y ＜ Security Attack -1 ＞ (Este Digimon revisa 1 tarjeta de seguridad menos) hasta el final del próximo turno de tu oponente.</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>Bifrost</ns1:name>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:numero_carta>BT3-101</ns1:numero_carta>
+    <ns1:efecto_seguridad>[Seguridad] 1 de los Digimon de tu oponente obtiene -3000 DP y</ns1:efecto_seguridad>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-022">
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3_022</ns1:numero_carta>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:tipo>Aereo</ns1:tipo>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Penguinmon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-007">
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:tipo>Reptil</ns1:tipo>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Agumon</ns1:name>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:numero_carta>BT3_007</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-045">
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>3</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:tipo>Larva</ns1:tipo>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:name>Kunemon</ns1:name>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:numero_carta>BT3-045</ns1:numero_carta>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-021">
+    <ns1:efecto_digievolucion>[Tu turno] [Una vez por turno] Cuando este Digimon no esté suspendido durante tu fase principal, activa ＜ Draw 1 ＞. (Roba 1 carta de tu Deck.)</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:tipo>Mini Dragon</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Veemon</ns1:name>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:numero_carta>BT2_021</ns1:numero_carta>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-071">
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>＜Reiniciar＞ (Anula la suspensión de este Digimon durante la fase de recuperación de la suspensión de tu oponente). [Cuando Digievolucione] Devuelve 1 carta de Digimon de nivel 7 con [Virus] en su atributo de tu papelera a tu mano.</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3-071</ns1:numero_carta>
+    <ns1:name>MetalMamemon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <ns1:tipo>Cyborg</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-097">
+    <ns1:costo_entrada>1</ns1:costo_entrada>
+    <ns1:efecto_seguridad>[Seguridad] Agrega esta tarjeta a tu mano.</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:numero_carta>BT3-097</ns1:numero_carta>
+    <ns1:efecto>[Principal] 1 de tus Digimon gana "Este Digimon no activa los efectos de [Seguridad] de ninguna de las cartas de Opción que comprueba" para el turno.</ns1:efecto>
+    <ns1:name>A Delicate Plan</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-078">
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:numero_carta>BT3-078</ns1:numero_carta>
+    <ns1:name>Shamanmon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Demon</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-047">
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <ns1:efecto>＜ Digisorption -3 ＞ (Cuando uno de sus Digimon digievoluciona en esta tarjeta de su mano, puede suspender 1 de sus Digimon para reducir el costo de memoria de la digievolución en 3.)</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:tipo>Mutante</ns1:tipo>
+    <ns1:name>Argomon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:efecto_digievolucion>[Al atacar] Puedes jugar 1 carta Digimon verde de nivel 3 de tu mano suspendida sin pagar su coste de memoria.</ns1:efecto_digievolucion>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:numero_carta>BT2_047</ns1:numero_carta>
+    <ns1:poder_digimon>6000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-042">
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Argomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:tipo>mutante</ns1:tipo>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT2_042</ns1:numero_carta>
+    <ns1:poder_digimon>3000</ns1:poder_digimon>
+    <ns1:efecto>-</ns1:efecto>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-100">
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto>[Principal] Suspende 1 de los Digimon de tu oponente. Luego, 1 de tus Digimon obtiene +2000 DP por turno.</ns1:efecto>
+    <ns1:numero_carta>BT2-100</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:name>Puppet Pummel</ns1:name>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-096">
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta</ns1:efecto_seguridad>
+    <ns1:numero_carta>BT2-096</ns1:numero_carta>
+    <ns1:efecto>[Principal] Devuelve 1 de los Digimon de nivel 5 o inferior de tu oponente a su mano. (Tira a la basura todas las cartas de digievolución de ese Digimon.) Luego, si tienes un Tamer azul en juego, anula la suspensión de 1 de tus Digimon</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>The Ray of Victory</ns1:name>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/digihuevo">
+    <rdfs:subClassOf rdf:resource="https://example.org/carta"/>
+    <ns1:name>digihuevo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-099">
+    <ns1:costo_entrada>9</ns1:costo_entrada>
+    <ns1:numero_carta>BT2-099</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:name>Glorious Burst</ns1:name>
+    <ns1:efecto>Reduce el costo de memoria de esta carta en tu mano en 1 por cada Domador amarillo que tengas en juego. [Principal] 1 de los Digimon de tu oponente obtiene -12000 PD por turno.</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-004">
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <ns1:numero_carta>BT3_004</ns1:numero_carta>
+    <ns1:efecto_digievolucion>[Al atacar] Si atacas a uno de los Digimon de tu oponente, este Digimon obtiene +1000 DP por turno.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:tipo>Larva</ns1:tipo>
+    <ns1:name>Minomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-098">
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:efecto>[Principal] Elimina 1 de los Digimon de tu oponente con 13000 DP o más.</ns1:efecto>
+    <ns1:name>Plasma Stake</ns1:name>
+    <ns1:numero_carta>BT3-098</ns1:numero_carta>
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta.</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-099">
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:numero_carta>BT3-099</ns1:numero_carta>
+    <ns1:efecto>[Principal] No se puede eliminar el Digimon de ninguno de los jugadores en la batalla del turno.</ns1:efecto>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <ns1:efecto_seguridad>[Seguridad] Agrega esta tarjeta a tu mano.</ns1:efecto_seguridad>
+    <ns1:name>We Have to Stop Fighting!</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-060">
+    <ns1:name>Psychemon</ns1:name>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:tipo>Reptile</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/data"/>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>1</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:numero_carta>BT3-060</ns1:numero_carta>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-064">
+    <ns1:tipo>Armor/Legend-Arms</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>TiaLudomon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:efecto_digievolucion>[Al atacar] Si este Digimon es de nivel 7, activa ＜ Desdigievolucionar 1 ＞ en 1 de los Digimon de tu oponente. (Tira a la basura una carta de la parte superior de uno de los Digimon de tu oponente. Si no tiene cartas de digievolución o se convierte en un Digimon de nivel 3, no puedes tirar más cartas a la basura).</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:numero_carta>BT3-064</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-010">
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <ns1:efecto_digievolucion>[Tu turno] Mientras este Digimon esté en el nivel 7, gana ＜ Ataque de seguridad +1 ＞. (Este Digimon verifica 1 tarjeta de seguridad adicional).</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>-</ns1:efecto>
+    <ns1:nivel>4</ns1:nivel>
+    <ns1:tipo>Arma\Leyenda</ns1:tipo>
+    <ns1:name>ZubaEagermon</ns1:name>
+    <ns1:numero_carta>BT3_010</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-021">
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:numero_carta>BT3_021</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto>＜Jamming＞ (Este Digimon no se puede eliminar en batallas contra Security Digimon).</ns1:efecto>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:name>Veemon</ns1:name>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:tipo>Mini Dragon</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-002">
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <ns1:name>DemiVeemon</ns1:name>
+    <ns1:efecto_digievolucion>[Tu turno] [Una vez por turno] Cuando este Digimon no se suspende durante tu fase principal, obtiene +1000 DP por turno.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <ns1:tipo>Menor</ns1:tipo>
+    <ns1:numero_carta>BT2_002</ns1:numero_carta>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-082">
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>4000</ns1:poder_digimon>
+    <ns1:efecto>[Seguridad] Al final de la batalla, juega esta carta sin pagar su coste de memoria.</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/virus"/>
+    <ns1:numero_carta>BT3-082</ns1:numero_carta>
+    <ns1:name>BlackGatomon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:tipo>Dark Animal</ns1:tipo>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/data">
+    <ns1:name>data</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-046">
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/novato"/>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:name>Terriermon</ns1:name>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:nivel>3</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>0</ns1:requerimiento_evolucion_costo>
+    <ns1:numero_carta>BT3-046</ns1:numero_carta>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:efecto>[Todos los turnos] Tu oponente no puede ganar memoria excepto con los efectos de Domador.</ns1:efecto>
+    <ns1:costo_entrada>3</ns1:costo_entrada>
+    <ns1:tipo>Beast</ns1:tipo>
+    <ns1:poder_digimon>2000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_nivel>2</ns1:requerimiento_evolucion_nivel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-013">
+    <ns1:name>Duramon</ns1:name>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:tipo>Arma\Leyenda</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:numero_carta>BT3_013</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:efecto_digievolucion>[Tu turno] Mientras este Digimon esté en el nivel 7, gana ＜ Ataque de seguridad +1 ＞. (Este Digimon verifica 1 tarjeta de seguridad adicional).</ns1:efecto_digievolucion>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-003">
+    <ns1:tipo>Anfibio</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digihuevo"/>
+    <rdf:type rdf:resource="https://example.org/enEntrenamiento"/>
+    <ns1:numero_carta>BT3_003</ns1:numero_carta>
+    <ns1:efecto_digievolucion>[Al atacar] [Una vez por turno] Si tienes 3 o menos cartas de seguridad, activa ＜ Robar 1 ＞. (Roba 1 carta de tu mazo).</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:name>Upamon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/iniciado">
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+    <ns1:name>iniciado</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-073">
+    <ns1:requerimiento_evolucion_nivel>5</ns1:requerimiento_evolucion_nivel>
+    <ns1:poder_digimon>11000</ns1:poder_digimon>
+    <ns1:name>CresGarurumon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <rdf:type rdf:resource="https://example.org/mega"/>
+    <ns1:nivel>6</ns1:nivel>
+    <ns1:costo_entrada>11</ns1:costo_entrada>
+    <ns1:tipo>Beast Knight</ns1:tipo>
+    <ns1:numero_carta>BT3-073</ns1:numero_carta>
+    <ns1:efecto>＜Reiniciar＞ (Anula la suspensión de este Digimon durante la fase de anulación de suspensión de tu oponente). [Cuando digievoluciona] Revela 1 carta de la parte superior de tu mazo por cada Digimon que tu oponente tenga en juego. Puedes jugar 1 carta de Digimon negra o roja con un nivel de 5 o menos entre ellos sin pagar su costo de memoria. Coloque las cartas restantes en la parte inferior de su mazo en cualquier orden.</ns1:efecto>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+    <ns1:requerimiento_evolucion_costo>4</ns1:requerimiento_evolucion_costo>
+    <rdf:type rdf:resource="https://example.org/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/novato">
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+    <ns1:name>novato</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-012">
+    <ns1:nivel>4</ns1:nivel>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <ns1:efecto_digievolucion>[Al atacar] Elimina 1 de los Digimon de tu oponente con 2000 DP o menos.</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/campeon"/>
+    <ns1:requerimiento_evolucion_costo>2</ns1:requerimiento_evolucion_costo>
+    <ns1:efecto>-</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:poder_digimon>5000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_nivel>3</ns1:requerimiento_evolucion_nivel>
+    <ns1:name>Aquilamon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <rdf:type rdf:resource="https://example.org/rojo"/>
+    <ns1:numero_carta>BT3_012</ns1:numero_carta>
+    <ns1:tipo>Pajaro Gigante</ns1:tipo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/efecto">
+    <ns1:name>efecto principal</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT1-100">
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <ns1:efecto>[Principal] Hasta el final del próximo turno de tu oponente, sus Digimon sin cartas de digievolución no pueden atacar.</ns1:efecto>
+    <ns1:numero_carta>BT1_100</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/azul"/>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>Grace Cross Freezer</ns1:name>
+    <ns1:efecto_seguridad>[Seguridad] Los Digimon de tu oponente sin cartas de digievolución no pueden atacar durante el turno.</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT1-107">
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:numero_carta>BT1_107</ns1:numero_carta>
+    <ns1:costo_entrada>6</ns1:costo_entrada>
+    <ns1:efecto>[Principal] Activador ＜ Recuperación +1 (Deck) ＞. (Coloque la carta superior de su mazo encima de su pila de seguridad)</ns1:efecto>
+    <ns1:name>Holy Wave</ns1:name>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta</ns1:efecto_seguridad>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-094">
+    <rdf:type rdf:resource="https://example.org/tamer"/>
+    <ns1:name>Ken Ichijoji</ns1:name>
+    <ns1:efecto>[Inicio de tu turno] Si tienes 2 de memoria o menos, configura tu memoria en 3. [Tu turno] Cuando uno de tus Digimon verdes o azules borra a un Digimon del oponente en la batalla y sobrevive, puedes suspender a este Domador para ganar 1 memoria</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <ns1:efecto_seguridad>[Seguridad] Juega esta tarjeta sin pagar su costo de memoria.</ns1:efecto_seguridad>
+    <ns1:numero_carta>BT3-094</ns1:numero_carta>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-105">
+    <ns1:efecto>[Principal] 1 de tus Digimon gana ＜Reboot＞ (Anula la suspensión de este Digimon durante la fase de anulación de suspensión de tu oponente) y "Este Digimon no puede reducir su DP o ser devuelto a la mano o mazo de su propietario" hasta el final del próximo turno de tu oponente. .</ns1:efecto>
+    <ns1:name>Breath of the Gods</ns1:name>
+    <ns1:numero_carta>BT2-099</ns1:numero_carta>
+    <ns1:efecto_seguridad>[Seguridad] Los Digimon de tu oponente no pueden atacar a los jugadores durante el turno.</ns1:efecto_seguridad>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <rdf:type rdf:resource="https://example.org/negro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-108">
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:name>Dark Despair</ns1:name>
+    <ns1:numero_carta>BT3-108</ns1:numero_carta>
+    <ns1:efecto>[Principal] 1 de tus Digimon gana ＜Retaliation＞ (cuando este Digimon es eliminado después de perder una batalla, elimina el Digimon con el que estaba luchando) hasta el final del siguiente turno de tu oponente.</ns1:efecto>
+    <ns1:efecto_seguridad>[Seguridad] Agrega esta tarjeta a tu mano.</ns1:efecto_seguridad>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/amarillo">
+    <ns1:name>amarillo</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/color"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/efecto_digievolucion">
+    <ns1:name>Efecto digievolucion</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-110">
+    <ns1:numero_carta>BT3-110</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:efecto>[Principal] Juega 1 carta Digimon morada de nivel 5 de tu basura sin pagar su coste de memoria. Cualquier efecto [On Play] en Digimon jugado con este efecto no se activa.</ns1:efecto>
+    <ns1:costo_entrada>5</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta.</ns1:efecto_seguridad>
+    <ns1:name>Necrophobia</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/negro">
+    <rdfs:subClassOf rdf:resource="https://example.org/color"/>
+    <ns1:name>negro</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/tamer">
+    <rdfs:subClassOf rdf:resource="https://example.org/carta"/>
+    <ns1:name>tamer</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/blanco">
+    <rdfs:subClassOf rdf:resource="https://example.org/color"/>
+    <ns1:name>blanco</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-038">
+    <ns1:efecto_digievolucion>[Tu turno] Mientras tengas 3 o más Domadores amarillos en juego, este Digimon gana ＜ Ataque de seguridad +1 ＞. (Este Digimon verifica 1 tarjeta de seguridad adicional).</ns1:efecto_digievolucion>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:numero_carta>BT2_038</ns1:numero_carta>
+    <ns1:name>RizeGreymon</ns1:name>
+    <ns1:efecto>[Cuando Digievoluciona] Puedes jugar 1 carta amarilla de Domador de tu mano sin pagar su coste de memoria. Cualquier efecto [On Play] en el Domador jugado con este efecto no se activa.</ns1:efecto>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <rdf:type rdf:resource="https://example.org/amarillo"/>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:tipo>Cyborg</ns1:tipo>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <rdf:type rdf:resource="https://example.org/vacuna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-096">
+    <ns1:numero_carta>BT3-096</ns1:numero_carta>
+    <rdf:type rdf:resource="https://example.org/violeta"/>
+    <ns1:costo_entrada>2</ns1:costo_entrada>
+    <ns1:efecto>[Todos los turnos] Cuando un jugador usa una tarjeta opcional, puede suspender este Domador para ganar 1 memoria</ns1:efecto>
+    <ns1:efecto_seguridad>[Seguridad] Juega esta tarjeta sin pagar su costo de memoria.</ns1:efecto_seguridad>
+    <ns1:name>Mimi Tachikawa</ns1:name>
+    <rdf:type rdf:resource="https://example.org/tamer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/libre">
+    <ns1:name>libre</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/rojo">
+    <rdfs:subClassOf rdf:resource="https://example.org/color"/>
+    <ns1:name>rojo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/opcion">
+    <rdfs:subClassOf rdf:resource="https://example.org/carta"/>
+    <ns1:name>opcion</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT3-055">
+    <ns1:tipo>Mutant</ns1:tipo>
+    <ns1:costo_entrada>8</ns1:costo_entrada>
+    <ns1:efecto>＜Perforación＞ (Cuando este Digimon ataca y elimina el Digimon de un oponente y sobrevive a la batalla, realiza los controles de seguridad que normalmente haría). ＜Jamming＞ (Este Digimon no se puede eliminar en batallas contra Security Digimon).</ns1:efecto>
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/digimon"/>
+    <ns1:name>Dinobeemon</ns1:name>
+    <ns1:efecto_seguridad>-</ns1:efecto_seguridad>
+    <ns1:poder_digimon>7000</ns1:poder_digimon>
+    <rdf:type rdf:resource="https://example.org/libre"/>
+    <rdf:type rdf:resource="https://example.org/definitivo"/>
+    <ns1:numero_carta>BT3-055</ns1:numero_carta>
+    <ns1:requerimiento_evolucion_nivel>4</ns1:requerimiento_evolucion_nivel>
+    <ns1:efecto_digievolucion>-</ns1:efecto_digievolucion>
+    <ns1:nivel>5</ns1:nivel>
+    <ns1:requerimiento_evolucion_costo>3</ns1:requerimiento_evolucion_costo>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/enEntrenamiento">
+    <ns1:name>enEntrenamiento</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/digihuevo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/Card/BT2-101">
+    <rdf:type rdf:resource="https://example.org/verde"/>
+    <rdf:type rdf:resource="https://example.org/opcion"/>
+    <ns1:efecto_seguridad>[Seguridad] Activa el efecto [Principal] de esta carta.</ns1:efecto_seguridad>
+    <ns1:name>Cherry Blast</ns1:name>
+    <ns1:efecto>[Principal] Suspende todos los Digimon de tu oponente con 6000 DP o menos.</ns1:efecto>
+    <ns1:costo_entrada>4</ns1:costo_entrada>
+    <ns1:numero_carta>BT2-101</ns1:numero_carta>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/definitivo">
+    <ns1:name>definitivo</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/efecto_seguridad">
+    <ns1:name>efecto de seguridad</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/campeon">
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+    <ns1:name>campeon</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/virus">
+    <ns1:name>virus</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/name">
+    <ns1:name>Nombre</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/azul">
+    <ns1:name>azul</ns1:name>
+    <rdfs:subClassOf rdf:resource="https://example.org/color"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/carta">
+    <ns1:name>carta</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/numero_carta">
+    <ns1:name>numero_carta</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/vacuna">
+    <rdfs:subClassOf rdf:resource="https://example.org/digimon"/>
+    <ns1:name>vacuna</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/requerimiento_evolucion_costo">
+    <ns1:name>requerimiento evolucion costo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/tipo">
+    <ns1:name>tipo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/object">
+    <ns1:name>Object</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://example.org/characteristic/nivel">
+    <ns1:name>Nivel</ns1:name>
+  </rdf:Description>
+</rdf:RDF>
